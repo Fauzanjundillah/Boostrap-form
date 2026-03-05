@@ -2,7 +2,7 @@
 
 Proyek ini berisi implementasi **Form Bootstrap** untuk kebutuhan tugas.
 
-![ss](ss.png)
+![ss](image/ss.png)
 
 ## Fitur
 - Menggunakan Bootstrap 5 untuk layout dan komponen.
