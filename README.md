@@ -2,6 +2,8 @@
 
 Proyek ini berisi implementasi **Form Bootstrap** untuk kebutuhan tugas.
 
+![ss](ss.png)
+
 ## Fitur
 - Menggunakan Bootstrap 5 untuk layout dan komponen.
 - Form pendaftaran mahasiswa dengan input yang umum dipakai.
