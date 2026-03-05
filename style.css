@@ -1,0 +1,22 @@
+﻿:root {
+  --page-bg-1: #f8fafc;
+  --page-bg-2: #e2e8f0;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--page-bg-1), var(--page-bg-2));
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.form-control,
+.form-select {
+  border-radius: 0.75rem;
+}
+
+.btn {
+  border-radius: 0.75rem;
+}
