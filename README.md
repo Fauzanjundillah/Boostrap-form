@@ -14,7 +14,7 @@ Proyek ini berisi implementasi **Form Bootstrap** untuk kebutuhan tugas.
 - `index.html`: halaman utama form.
 - `style.css`: styling tambahan.
 - `DOKUMENTASI.md`: dokumen screenshot saat program running.
-- `docs/screenshot-running.png`: gambar hasil running.
+- `image/ss.png`: gambar hasil running.
 
 ## Menjalankan Proyek
 1. Download/clone proyek.
